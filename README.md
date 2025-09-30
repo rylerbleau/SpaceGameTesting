@@ -6,8 +6,9 @@ Steps for testing:
 
 1. Click the big green 'Code' button, opening a dropdown
 
-2. click 'Download as Zip'
-  2a. if you have git installed you can do it that way as well, if so skip step 3
+2. click 'Download Zip'
+
+2a. if you have git installed you can do it that way as well, if so skip step 3
 
 3. export the zip to somewhere on your computer, make sure to remember where it is!
 
