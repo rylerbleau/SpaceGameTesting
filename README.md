@@ -12,7 +12,7 @@ Steps for testing:
 
 4. open steam > library
 
-5. click '*Add a Game*' in the bottom left, then '*Add a non-steam game*', then '*Browse*'
+5. click '*Add a Game*' in the bottom left, then '*Add a non-steam game*' (this may take a second), then '*Browse*'
 
 6. locate the folder from step 3 and open it up
 
